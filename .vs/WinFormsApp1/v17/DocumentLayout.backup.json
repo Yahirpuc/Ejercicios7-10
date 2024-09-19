@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 1\\practicas7-10\\winformsapp1\\winformsapp1\\pr\u00E1ctica8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\pr\u00E1ctica8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 1\\practicas7-10\\winformsapp1\\winformsapp1\\practica9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\practica9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 1\\practicas7-10\\winformsapp1\\winformsapp1\\practica10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\practica10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 1\\practicas7-10\\winformsapp1\\winformsapp1\\pr\u00E1ctica7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\pr\u00E1ctica7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 1\\practicas7-10\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 1\\practicas7-10\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 1\\practicas7-10\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 1\\practicas7-10\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF19546A-00D1-47A6-BA53-2AB3B297A3D9}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:17:02.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:13:54.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:12:28.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practica10.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Practica10.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Practica10.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Practica10.cs",
+              "RelativeToolTip": "WinFormsApp1\\Practica10.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:11:16.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practica9.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Practica9.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Practica9.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Practica9.cs",
+              "RelativeToolTip": "WinFormsApp1\\Practica9.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:10:44.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pr\u00E1ctica8.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Pr\u00E1ctica8.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Pr\u00E1ctica8.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Pr\u00E1ctica8.cs",
+              "RelativeToolTip": "WinFormsApp1\\Pr\u00E1ctica8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:10:10.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pr\u00E1ctica7.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Pr\u00E1ctica7.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Pr\u00E1ctica7.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Pr\u00E1ctica7.cs",
+              "RelativeToolTip": "WinFormsApp1\\Pr\u00E1ctica7.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:09:29.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 1\\Practicas7-10\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:08:16.731Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
